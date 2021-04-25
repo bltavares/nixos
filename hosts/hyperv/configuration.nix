@@ -19,7 +19,7 @@
     ../../modules/services.nix
     ../../modules/applications.nix
     ../../modules/commands.nix
-    ../../modules/nix.nix
+    ../../modules/nix-dev.nix
   ];
 
   # Use the systemd-boot EFI boot loader.
